@@ -1,4 +1,5 @@
 # DEMO
 This is a demo repository
 <br>
-Author-Likhith Gowda U
+Author-Likhith Gowda U [SVIT]
+
